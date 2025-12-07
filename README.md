@@ -47,3 +47,10 @@ Create and activate a virtual environment (recommended), then:
 
 ```bash
 pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+scipy
+openpyxl
+
